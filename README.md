@@ -1,6 +1,6 @@
 # Uzair Hussain - Personal Portfolio Website
 
-### [See Portfolio Here!](https://uzairhussain193.github.io/Personal-Portfolio-Web/)
+### [See Portfolio Here!](https://uzairhussain.tech/)
 
 ---
 ![GitHub repo size](https://img.shields.io/github/repo-size/UzairHussain193/Personal-Portfolio-Web)
