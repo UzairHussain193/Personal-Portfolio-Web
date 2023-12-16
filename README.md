@@ -1,12 +1,12 @@
-# vCard - Personal portfolio
+# Uzair Hussain - Personal Portfolio Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+![GitHub repo size](https://img.shields.io/github/repo-size/UzairHussain193/Personal-Portfolio-Web)
+![GitHub stars](https://img.shields.io/github/stars/UzairHussain193/Personal-Portfolio-Web?style=social)
+![GitHub forks](https://img.shields.io/github/forks/UzairHussain193/Personal-Portfolio-Web?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/uzairhussain193_?style=social)](https://twitter.com/intent/follow?screen_name=uzairhussain193_)
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+
+This template provides you a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
 
@@ -19,26 +19,30 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing vCard
+## Using this template
 
-To install **vCard**, follow these steps:
+To Use **This Template**, follow these steps:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+sudo git clone https://github.com/UzairHussain193/Personal-Portfolio-Web.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+git clone https://github.com/UzairHussain193/Personal-Portfolio-Web.git
 ```
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/uzairhussain193).
 
 ## License
 
-MIT
+[MIT](/LICENSE)
+
+## Template copied from
+
+[Code with Sadee](https://github.com/codewithsadee/vcard-personal-portfolio)
