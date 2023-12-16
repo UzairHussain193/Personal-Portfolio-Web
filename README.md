@@ -40,7 +40,7 @@ git clone https://github.com/UzairHussain193/Personal-Portfolio-Web.git
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/uzairhussain193).
+If you want to contact me you can reach me at [LinkedIn](https://linkedin.com/in/uzairhussain19).
 
 ## License
 
