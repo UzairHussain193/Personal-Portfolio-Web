@@ -732,7 +732,7 @@ main {
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
-  gap: 15px;
+  /* gap: 5px; */
   margin: 0 -15px;
   padding: 25px;
   padding-bottom: 25px;
@@ -748,6 +748,10 @@ main {
   scroll-snap-align: start;
 }
 
+.clients-item a{
+  width: 5rem;
+  height: 5rem;
+}
 .clients-item img {
   width: 100%;
   filter: grayscale(1);
@@ -1474,7 +1478,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   /* clients */
 
   .clients-list {
-    gap: 50px;
+    /* gap: 50px; */
     margin: 0 -30px;
     padding: 45px;
     scroll-padding-inline: 45px;
