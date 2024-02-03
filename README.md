@@ -45,7 +45,3 @@ If you want to contact me you can reach me at [LinkedIn](https://linkedin.com/in
 ## License
 
 [MIT](/LICENSE)
-
-## Template copied from
-
-[Code with Sadee](https://github.com/codewithsadee/vcard-personal-portfolio)
