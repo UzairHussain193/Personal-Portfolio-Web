@@ -1,0 +1,11 @@
+# robots.txt for Personal Portfolio Website
+# https://uzairhussain193.github.io/Personal-Portfolio-Web/
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://uzairhussain193.github.io/Personal-Portfolio-Web/sitemap.xml
+
+# Disallow crawling of certain directories (if needed)
+Disallow: /assets/docs/
