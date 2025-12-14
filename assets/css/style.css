@@ -1865,6 +1865,42 @@ textarea.form-input::-webkit-resizer { display: none; }
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    /* display: block;
+    transition: var(--transition-1);
+  }
+
+  .contact-info .contact-link:hover {
+    white-space: normal;
+    word-break: break-all;
+    overflow: visible; */
+    display: block;
+    transition: var(--transition-1);
+  }
+
+  .contact-info .contact-link:hover {
+    white-space: normal;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    overflow: visible;
+  }
+  /* Resume link: subtle grey hover + text shadow + smooth transition */
+  .contact-info .resume-link {
+    color: var(--white-2);
+    display: inline-block;
+    transition: color var(--transition-1), text-shadow var(--transition-1), transform var(--transition-1);
+    text-decoration: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .contact-info .resume-link:hover,
+  .contact-info .resume-link:focus {
+    color: var(--light-gray); /* greyish color */
+    text-shadow:
+      0 1px 0 rgba(0,0,0,0.6),   /* subtle darker border below */
+      0 2px 8px rgba(0,0,0,0.45); /* soft outer shadow */
+    transform: translateY(-1px); /* tiny lift for affordance */
+    outline: none;
   }
 
   .contact-info :is(.contact-link, time, address) {
